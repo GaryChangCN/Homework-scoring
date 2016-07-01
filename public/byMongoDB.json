@@ -1,0 +1,2531 @@
+{
+	"data": [
+		{
+			"groupName": "1",
+			"groupMember": [
+				{
+					"id": "1357237",
+					"name": "徐耀华"
+				}, {
+					"id": "1357240",
+					"name": "胡诚坚"
+				}, {
+					"id": "1357242",
+					"name": "袁顺江"
+				}, {
+					"id": "1357243",
+					"name": "赵自立"
+				}
+			],
+			"groupMaster": "徐耀华",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "2",
+			"groupMember": [
+				{
+					"id": "1357129",
+					"name": "路成"
+				}, {
+					"id": "1357131",
+					"name": "朱海宁"
+				}, {
+					"id": "1357229",
+					"name": "刘昱"
+				}, {
+					"id": "1357230",
+					"name": "房敏"
+				}
+			],
+			"groupMaster": "路成",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "3",
+			"groupMember": [
+				{
+					"id": "1357203",
+					"name": "宋佳盈"
+				}, {
+					"id": "1357204",
+					"name": "朱申佳"
+				}, {
+					"id": "1357217",
+					"name": "陈梦颜"
+				}, {
+					"id": "1357219",
+					"name": "刘雨佳"
+				}
+			],
+			"groupMaster": "宋佳盈",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "66",
+			"groupMember": [
+				{
+					"id": "1357126",
+					"name": "张元建"
+				}, {
+					"id": "1357127",
+					"name": "李玉龙"
+				}
+			],
+			"groupMaster": "张元建",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "100",
+			"groupMember": [
+				{
+					"id": "1357135",
+					"name": "黄智翔"
+				}, {
+					"id": "1357136",
+					"name": "钟易东"
+				}, {
+					"id": "1357137",
+					"name": "唐熙棱"
+				}
+			],
+			"groupMaster": "黄智翔",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "111",
+			"groupMember": [
+				{
+					"id": "1357109",
+					"name": "兰航"
+				}
+			],
+			"groupMaster": "兰航",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "346",
+			"groupMember": [
+				{
+					"id": "1357113",
+					"name": "罗琪"
+				}, {
+					"id": "1357114",
+					"name": "李清妍"
+				}, {
+					"id": "1357116",
+					"name": "徐沁"
+				}
+			],
+			"groupMaster": "罗琪",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "999",
+			"groupMember": [
+				{
+					"id": "1357124",
+					"name": "黄思宇"
+				}, {
+					"id": "1357125",
+					"name": "吴青峰"
+				}
+			],
+			"groupMaster": "黄思宇",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "1234",
+			"groupMember": [
+				{
+					"id": "1357233",
+					"name": "李瑞珅"
+				}, {
+					"id": "1357235",
+					"name": "陈优天子"
+				}, {
+					"id": "1357241",
+					"name": "曾锦烽"
+				}, {
+					"id": "1357244",
+					"name": "龚言"
+				}
+			],
+			"groupMaster": "李瑞珅",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "21215",
+			"groupMember": [
+				{
+					"id": "1357112",
+					"name": "谈加颖"
+				}, {
+					"id": "1357115",
+					"name": "俞月"
+				}, {
+					"id": "1357202",
+					"name": "居阳"
+				}
+			],
+			"groupMaster": "谈加颖",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "随便",
+			"groupMember": [
+				{
+					"id": "1357105",
+					"name": "杨雯娜"
+				}, {
+					"id": "1357106",
+					"name": "孙亚珍"
+				}, {
+					"id": "1357107",
+					"name": "张丽丽"
+				}, {
+					"id": "1357108",
+					"name": "张琦"
+				}
+			],
+			"groupMaster": "杨雯娜",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "沙雕",
+			"groupMember": [
+				{
+					"id": "1357121",
+					"name": "谢佳豪"
+				}, {
+					"id": "1357133",
+					"name": "邓帆"
+				}
+			],
+			"groupMaster": "谢佳豪",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "ZKL",
+			"groupMember": [
+				{
+					"id": "1357122",
+					"name": "张凯龙"
+				}
+			],
+			"groupMaster": "张凯龙",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "PYY",
+			"groupMember": [
+				{
+					"id": "1357123",
+					"name": "王佳萌"
+				}, {
+					"id": "1357134",
+					"name": "金冬雨"
+				}
+			],
+			"groupMaster": "王佳萌",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "HX",
+			"groupMember": [
+				{
+					"id": "1357130",
+					"name": "惠鑫"
+				}
+			],
+			"groupMaster": "惠鑫",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "全场最佳",
+			"groupMember": [
+				{
+					"id": "1357132",
+					"name": "冯梓原"
+				}, {
+					"id": "1357143",
+					"name": "项宇峰"
+				}, {
+					"id": "1357232",
+					"name": "戚小强"
+				}, {
+					"id": "1357234",
+					"name": "陈斯琦"
+				}, {
+					"id": "1357239",
+					"name": "沈航"
+				}
+			],
+			"groupMaster": "冯梓原",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "X-man",
+			"groupMember": [
+				{
+					"id": "1357140",
+					"name": "许家豪"
+				}, {
+					"id": "1357141",
+					"name": "陆永祺"
+				}
+			],
+			"groupMaster": "许家豪",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "OMS",
+			"groupMember": [
+				{
+					"id": "1357209",
+					"name": "顾诗洁"
+				}, {
+					"id": "1357211",
+					"name": "蒋灵如"
+				}, {
+					"id": "1357212",
+					"name": "倪姣婕"
+				}, {
+					"id": "1357214",
+					"name": "蔡曦莹"
+				}
+			],
+			"groupMaster": "顾诗洁",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "咋啦",
+			"groupMember": [
+				{
+					"id": "1357210",
+					"name": "刘见微"
+				}, {
+					"id": "1357213",
+					"name": "肖陈夏怡"
+				}, {
+					"id": "1357215",
+					"name": "刘帆"
+				}, {
+					"id": "1357225",
+					"name": "李骁"
+				}, {
+					"id": "1357226",
+					"name": "姚逸杰"
+				}
+			],
+			"groupMaster": "刘见微",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "猪空",
+			"groupMember": [
+				{
+					"id": "1357236",
+					"name": "徐瑞昊"
+				}
+			],
+			"groupMaster": "徐瑞昊",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"咸美丽": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}, {
+			"groupName": "咸美丽",
+			"groupMember": [
+				{
+					"id": "1357222",
+					"name": "沈翔东"
+				}
+			],
+			"groupMaster": "沈翔东",
+			"homework": {
+				"pdf": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"doc": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				},
+				"xls": {
+					"publisher": null,
+					"exit": null,
+					"time": null,
+					"name":null
+				}
+			},
+			"getScore": {
+				"noMark": null,
+				"withMark": null
+			},
+			"score": {
+				"1": {
+					"score": null,
+					"mark": null
+				},
+				"2": {
+					"score": null,
+					"mark": null
+				},
+				"3": {
+					"score": null,
+					"mark": null
+				},
+				"66": {
+					"score": null,
+					"mark": null
+				},
+				"100": {
+					"score": null,
+					"mark": null
+				},
+				"111": {
+					"score": null,
+					"mark": null
+				},
+				"346": {
+					"score": null,
+					"mark": null
+				},
+				"999": {
+					"score": null,
+					"mark": null
+				},
+				"1234": {
+					"score": null,
+					"mark": null
+				},
+				"21215": {
+					"score": null,
+					"mark": null
+				},
+				"随便": {
+					"score": null,
+					"mark": null
+				},
+				"沙雕": {
+					"score": null,
+					"mark": null
+				},
+				"ZKL": {
+					"score": null,
+					"mark": null
+				},
+				"PYY": {
+					"score": null,
+					"mark": null
+				},
+				"HX": {
+					"score": null,
+					"mark": null
+				},
+				"全场最佳": {
+					"score": null,
+					"mark": null
+				},
+				"X-man": {
+					"score": null,
+					"mark": null
+				},
+				"OMS": {
+					"score": null,
+					"mark": null
+				},
+				"咋啦": {
+					"score": null,
+					"mark": null
+				},
+				"猪空": {
+					"score": null,
+					"mark": null
+				}
+			}
+		}
+	]
+}
