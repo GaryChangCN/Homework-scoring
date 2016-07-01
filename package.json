@@ -1,0 +1,25 @@
+{
+  "name": "score",
+  "version": "1.0.0",
+  "description": "wait",
+  "main": "app.js",
+  "scripts": {
+    "test": "nonono"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "tinytin",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.13.0",
+    "formidable": "^1.0.17",
+    "mongodb": "^2.1.18"
+  }
+}
