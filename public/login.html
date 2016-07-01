@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>登录</title>
+</head>
+
+<body>
+    <div class="header"></div>
+    <div class="line">
+        <div class="content">
+            <div class="loginName">计量与建模课程设计登录</div>
+            <div class="tips">
+                帐号为你的姓名、密码为你的学号
+                <span>×</span>
+            </div>
+            <div class="spanContent">
+                <span class="usernameSpan">帐号</span>
+                <span class="passwordSpan">密码</span>
+            </div>
+            <form action="Tlogin" method="get">
+                <input type="text" name="username" class="username" required="required" />
+                <input type="password" required="required" name="password" class="password" />
+                <input type="submit" value="登录" / class="submit">
+            </form>
+        </div>
+    </div>
+    <style>
+    * {
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+    }
+    
+    body {
+        background-color: #eee;
+    }
+    
+    html {
+        font-size: 62.5%;
+        font-family: "黑体";
+        color: rgb(82, 86, 89);
+    }
+    
+    .header {
+        height: 5px;
+        background-color: rgb(0, 153, 188);
+    }
+    
+    .line {
+        border-top: 1px solid #bdbdbd;
+        border-right: 1px solid white;
+        border-bottom: 1px solid white;
+        border-left: 1px solid #bdbdbd;
+        margin: 150px auto 0px auto;
+        width: 400px;
+    }
+    
+    .content {
+        border-top: 1px solid white;
+        border-right: 1px solid #bdbdbd;
+        border-bottom: 1px solid #bdbdbd;
+        border-left: 1px solid white;
+        background-color: #ececec;
+        width: 398px;
+    }
+    
+    .loginName {
+        text-align: center;
+        height: 40px;
+        line-height: 40px;
+        font-size: 1.7rem;
+        border-bottom: 1px solid #bdbdbd;
+    }
+    
+    .loginName:after {
+        content: "";
+        display: block;
+        background-color: #fff;
+        height: 1px;
+        position: relative;
+        top: 1px;
+    }
+    
+    .content>form>input:first-child,
+    .content>form>input:nth-child(2) {
+        display: block;
+        width: 343px;
+        height: 40px;
+        padding-left: 55px;
+        margin: 0px auto;
+        background-color: transparent;
+    }
+    
+    .username {
+        border-bottom: 1px solid #bdbdbd;
+    }
+    
+    .spanContent {
+        width: 40px;
+        float: left;
+        position: absolute;
+    }
+    
+    .spanContent>span {
+        height: 40px;
+        width: 40px;
+        display: block;
+        line-height: 40px;
+        text-align: center;
+        padding-left: 5px;
+        font-size: 1.3rem;
+        border-right: 1px solid #bdbdbd;
+    }
+    
+    .spanContent>span::after {
+        content: "";
+        display: block;
+        width: 1px;
+        height: 40px;
+        background-color: #fff;
+        position: relative;
+        left: 41px;
+        bottom: 40px;
+    }
+    
+    .password {
+        border-bottom: 1px solid #bdbdbd;
+        border-top: 1px solid #ffffff;
+    }
+    
+    .submit {
+        text-align: center;
+        width: 398px;
+        height: 40px;
+        background-color: transparent;
+        font-family: "黑体";
+        font-size: 1.5rem;
+        border-top: 1px solid #ffffff;
+    }
+    
+    .submit:hover {
+        background-color: rgb(0, 153, 188);
+        color: white;
+    }
+    
+    .tips {
+        margin-top: 1px;
+        width: 90%;
+        padding-left: 5%;
+        padding-top: 5px;
+        padding-right: 5%;
+        padding-bottom: 5px;
+        font-size: 1.3rem;
+        background: linear-gradient(rgb(254, 239, 172), rgb(250, 231, 147));
+        border-bottom: 1px solid rgb(170, 170, 170);
+    }
+    
+    .tips span {
+        float: right;
+        position: relative;
+        top: -2px;
+        right: -18px;
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: rgb(170, 170, 170);
+    }
+    
+    .tips>span:hover {
+        font-weight: 900;
+    }
+    </style>
+</body>
+<script>
+var query = window.location.search.replace(/\?/, "");
+if (query == "incorrect") {
+    alert("对不起，不能让你登录，请重新输入帐号密码");
+    window.location.href="/";
+} else {
+    var close = document.querySelector(".tips span");
+    close.onclick = function(event) {
+        event.target.parentNode.style.display = "none";
+    }
+}
+</script>
+
+</html>
