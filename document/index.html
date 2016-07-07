@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>这里是标题</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script type="text/javascript" src="js/_Ajax.min.js"></script>
+    <script src="js/pdfobject.min.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <span><a href="index.html">计量与建模课程设计</a></span>
+        <span><span></span><a href="myHomeWork.html">我的作业</a></span>
+    </div>
+    <div class="content" id="content">
+        <div class="left" id="left">
+            <div style="font-size: 2rem;text-align: center;margin-top: 15rem;">请从右边选择小组进行PDF浏览并打分</div>
+        </div>
+        <div class="right">
+            <div class="groupContent">
+            </div>
+            <div class="i"></div>
+            <div class="groupList">
+                <ul>
+                    <!-- <li>
+                        <div>77</div>
+                        <span class="docName">《论文名字rtretr tewrewsrew》</span>
+                        <span>组名称:<span class="gName">WDSWW</span></span>
+                    </li> -->
+                </ul>
+            </div>
+            <div class="scoreContent">
+                <div class="score">
+                    <span>请给<span>xx</span>组打分</span>
+                    <input type="number" />
+                    <a href="#" class="Tbutton">提交分数</a>
+                </div>
+                <textarea cols="30" rows="10" placeholder="打分理由（必填）"></textarea>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+<script type="text/javascript">
+function windowHeight() { //设备窗口高度
+    var windowHeight = window.innerHeight;
+    if (typeof windowHeight != "number") {
+        if (document.compatMode == "CSS1Compat") {
+            windowHeight = document.documentElement.clientHeight;
+        } else {
+            windowHeight = document.body.clientHeight
+        }
+    }
+    var height = windowHeight - 52;
+    return height;
+}
+document.getElementById("content").style.height = windowHeight() + "px";
+document.querySelector(".groupList").style.maxHeight = (windowHeight() - 320) + "px";
+window.addEventListener("resize", function() {
+    window.location.reload();
+});
+// PDFObject.embed("./pdf/1.pdf", "#left");
+</script>
+<script type="text/javascript" src="js/index.js"></script>

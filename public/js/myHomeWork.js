@@ -1,5 +1,10 @@
 var userInformation;
-//获取信息
+//跳转首页
+(function() {
+    document.querySelector(".selectFile>span").onclick = function() {
+        window.location.href = "/index.html";
+    }
+})();
 ////关闭提示
 (function() {
     var close = document.querySelector(".tips span");
@@ -14,6 +19,10 @@ var userInformation;
     close.onclick = function() {
         document.querySelector(".cover").style = "none";
     }
+    var enter = document.querySelector(".coverEnter");
+    enter.addEventListener("click", function() {
+        window.location.reload();
+    });
 })();
 //获取信息
 (function() {
@@ -104,76 +113,74 @@ var userInformation;
     })
 })();
 //上传文件函数
-(function() {
-    var file = document.getElementById("file");
-    var submitA = document.querySelector(".submitA");
-    var data = new FormData();
-    data.append("groupName", userInformation.groupName);
-    data.append("userName", userInformation.name);
-    data.append("userId", userInformation.id);
-    var d = new Date();
-    var time = d.toLocaleString();
-    data.append("time", time);
-    file.addEventListener("change", function(event) {
-        submitA.style.display = "inline";
-        var files = event.target.files;
-        var objArr = [];
-        var fileList = document.querySelector(".fileList");
-        objArr.push(files);
-        objArr.forEach(function(e) {
-            var arr = Array.prototype.slice.call(e);
-            arr.forEach(function(e) {
-                if (e.name.match(/.(doc|docs|pdf|xls|xlsx)/)) {
+//(function() {
+var file = document.getElementById("file");
+var submitA = document.querySelector(".submitA");
+var data = new FormData();
+data.append("groupName", userInformation.groupName);
+data.append("userName", userInformation.name);
+data.append("userId", userInformation.id);
+var d = new Date();
+var time = d.toLocaleString();
+data.append("time", time);
+file.addEventListener("change", function(event) {
+    submitA.style.display = "inline";
+    var files = event.target.files;
+    var objArr = [];
+    var fileList = document.querySelector(".fileList");
+    objArr.push(files);
+    objArr.forEach(function(e) {
+        var arr = Array.prototype.slice.call(e);
+        arr.forEach(function(e) {
+            if (e.name.match(/.(doc|docs|pdf|xls|xlsx)/)) {
+                if (/( |\s)/.test(e.name)) {
+                    alert("上传文件名不能有空格");
+                    window.location.reload();
+                } else {
                     var li = document.createElement("li");
                     li.innerHTML = "<span>" + e.name.replace(/.(doc|docs|pdf|xls|xlsx)/, "") + "</span><span>" + e.name.match(/.(doc|docs|pdf|xls|xlsx)/)[1] + "文件</span>"
                     fileList.appendChild(li);
-                } else {
-                    alert("仅支持doc、docx、pdf、xls、xlsx格式");
-                    window.location.reload();
                 }
-            })
-            var i = 0;
-            var len = files.length;
-            while (i < len) {
-                data.append("file", files[i]);
-                i++;
+            } else {
+                alert("仅支持doc、docx、pdf、xls、xlsx格式");
+                window.location.reload();
             }
-        });
-        //限制多文件同时上传，因为后台问题没有解决  苦逼  放弃
-        // var add=document.querySelector(".selectFile>a");
-        // add.style.visibility="hidden";
-        // event.target.style.visibility="hidden";
+        })
+        var i = 0;
+        var len = files.length;
+        while (i < len) {
+            data.append("file", files[i]);
+            i++;
+        }
     });
-    submitA.onclick = function() {
-        document.querySelector(".cover").style.display = "inline";
-        var xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function() {
-            if (xhr.readyState == 4) {
-                if (xhr.status >= 200 && xhr.status < 300 || xhr.status == 304) {
-                    var result = xhr.responseText;
-                    if (result == "ok") {
-                        var enter = document.querySelector(".coverEnter");
-                        var coverContent = document.querySelector(".coverContent");
-                        coverContent.innerText = "=====上传成功=====";
-                        document.querySelector(".coverTop span").style.display = "none";
-                        enter.addEventListener("click", function() {
-                            document.querySelector(".cover").style.display = "none";
-                            window.location.reload();
-                        });
-                    } else {
-                        var enter = document.querySelector(".coverEnter");
-                        var coverContent = document.querySelector(".coverContent");
-                        coverContent.innerText = "上传失败，请重新上传";
-                        document.querySelector(".coverTop span").style.display = "none";
-                        enter.addEventListener("click", function() {
-                            document.querySelector(".cover").style.display = "none";
-                            window.location.reload();
-                        });
-                    }
+    //限制多文件同时上传，因为后台问题没有解决  苦逼  放弃---已解决
+    // var add = document.querySelector(".selectFile>a");
+    // add.style.visibility = "hidden";
+    // event.target.style.visibility = "hidden";
+});
+submitA.addEventListener("click", function() {
+    var coverContent = document.querySelector(".coverContent");
+    document.querySelector(".cover").style.display = "inline";
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState == 1) {
+            //document.querySelector(".cover").style.display = "inline";
+        } else if (xhr.readyState == 4) {
+            if (xhr.status >= 200 && xhr.status < 300 || xhr.status == 304) {
+                var result = xhr.responseText;
+                if (result == "ok") {
+                    coverContent.innerText = "=====上传成功=====";
+                    document.querySelector(".coverTop span").style.display = "none";
+                } else {
+                    coverContent.innerText = "上传失败，请重新上传";
+                    document.querySelector(".coverTop span").style.display = "none";
                 }
             }
         }
-        xhr.open("post", "Tpost", false);
-        xhr.send(data);
     }
-})();
+    xhr.upload
+    xhr.open("post", "Tpost", true);
+    xhr.send(data);
+
+});
+//})();

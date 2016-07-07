@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>教师端-管理</title>
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="./css/teacher.css" />
+    <script type="text/javascript" src="js/jQuery.min.js"></script>
+    <script type="text/javascript" src="js/echarts.min.js"></script>
+</head>
+
+<body>
+    <div id="cover">
+        <span></span>
+    </div>
+    <div class="file"></div>
+    <div class="headerContent">
+        <div class="header">
+            <span><a href="/teacher.html">计量与建模课程设计-管理页面</a></span>
+            <span><a href="/logout">注销</a></span>
+        </div>
+    </div>
+    <div class="content1">
+        <div class="left">
+            <div class="selectGroup cTitle">
+                <span>选取小组</span>
+            </div>
+            <ul class="groupList">
+                <!-- <li data-groupname=""><span>01</span></li> -->
+            </ul>
+        </div>
+        <div class="right">
+            <div class="rightTop">
+                <div class="cTitle"><span>左侧选组，这里是其他组对该组打分</span></div>
+                <div class="rigthTopContent" id="getScore"></div>
+            </div>
+            <div class="rightBottom">
+                <div class="cTitle"><span>左侧选组，这里是该组对其他组打分</span></div>
+                <div class="rightBottomContent" id="giveScore"></div>
+            </div>
+        </div>
+    </div>
+    <div class="content2">
+        <div class="a">
+            <div class="cTitle"><span>平均分</span></div>
+            <div class="Score" id="averageScore"></div>
+        </div>
+        <div class="b">
+            <div class="cTitle">
+                <span>
+                    去除<span class="max">1</span>个最高和<span class="min">1</span>个最低后平均分
+                </span>
+            </div>
+            <div class="Score" id="averageOptionScore"></div>
+            <div class="range">
+                <span>高</span>
+                <input type="range" id="max" min="0" max="10" value="1">
+                <span>低</span>
+                <input type="range" id="min" min="0" max="10" value="1">
+            </div>
+        </div>
+        <div class="c">
+            <div class="cTitle"><span>教师打分</span></div>
+            <div class="Score" id="teacherScore">
+            </div>
+        </div>
+        <div class="d">
+            <div class="cTitle"><span>总分</span></div>
+            <div class="Score" id="sumScore"></div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="js/teacher.js"></script>
+
+</html>

@@ -1,6 +1,108 @@
 {
   "data": [
     {
+      "forOthers": {
+        "100": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "111": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "1234": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "2": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "21215": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "3": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "346": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "66": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "999": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "HX": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "OMS": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "PYY": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "X-man": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "ZKL": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "全场最佳": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "咸美丽": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "巴啦啦小魔仙": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "沙雕": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "猪空": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "随便": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        }
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -8,46 +110,19 @@
         "d": null
       },
       "groupMaster": "徐耀华",
-      "groupMember": [
-        {
-          "id": "1357237",
-          "name": "徐耀华"
-        },
-        {
-          "id": "1357240",
-          "name": "胡诚坚"
-        },
-        {
-          "id": "1357242",
-          "name": "袁顺江"
-        },
-        {
-          "id": "1357243",
-          "name": "赵自立"
-        }
-      ],
       "groupName": "1",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
+        "1": {
+          "effective": true,
+          "mark": null,
+          "score": null
         },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
         "100": {
           "effective": true,
           "mark": null,
@@ -59,11 +134,6 @@
           "score": null
         },
         "1234": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "2": {
           "effective": true,
           "mark": null,
           "score": null
@@ -148,9 +218,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -158,46 +226,14 @@
         "d": null
       },
       "groupMaster": "路成",
-      "groupMember": [
-        {
-          "id": "1357129",
-          "name": "路成"
-        },
-        {
-          "id": "1357131",
-          "name": "朱海宁"
-        },
-        {
-          "id": "1357229",
-          "name": "刘昱"
-        },
-        {
-          "id": "1357230",
-          "name": "房敏"
-        }
-      ],
       "groupName": "2",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -218,12 +254,12 @@
           "mark": null,
           "score": null
         },
-        "21215": {
+        "2": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "3": {
+        "21215": {
           "effective": true,
           "mark": null,
           "score": null
@@ -298,9 +334,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -308,46 +342,14 @@
         "d": null
       },
       "groupMaster": "宋佳盈",
-      "groupMember": [
-        {
-          "id": "1357203",
-          "name": "宋佳盈"
-        },
-        {
-          "id": "1357204",
-          "name": "朱申佳"
-        },
-        {
-          "id": "1357217",
-          "name": "陈梦颜"
-        },
-        {
-          "id": "1357219",
-          "name": "刘雨佳"
-        }
-      ],
       "groupName": "3",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -378,12 +380,12 @@
           "mark": null,
           "score": null
         },
-        "346": {
+        "3": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "66": {
+        "346": {
           "effective": true,
           "mark": null,
           "score": null
@@ -448,9 +450,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -458,44 +458,15 @@
         "d": null
       },
       "groupMaster": "张元建",
-      "groupMember": [
-        {
-          "id": "1357126",
-          "name": "张元建"
-        },
-        {
-          "id": "1357127",
-          "name": "李玉龙"
-        }
-      ],
       "groupName": "66",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "100": {
           "effective": true,
           "mark": null,
           "score": null
@@ -526,6 +497,11 @@
           "score": null
         },
         "346": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "66": {
           "effective": true,
           "mark": null,
           "score": null
@@ -590,9 +566,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -600,48 +574,20 @@
         "d": null
       },
       "groupMaster": "黄智翔",
-      "groupMember": [
-        {
-          "id": "1357135",
-          "name": "黄智翔"
-        },
-        {
-          "id": "1357136",
-          "name": "钟易东"
-        },
-        {
-          "id": "1357137",
-          "name": "唐熙棱"
-        }
-      ],
       "groupName": "100",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "111": {
+        "100": {
           "effective": true,
           "mark": null,
           "score": null
@@ -736,9 +682,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -746,40 +690,25 @@
         "d": null
       },
       "groupMaster": "兰航",
-      "groupMember": [
-        {
-          "id": "1357109",
-          "name": "兰航"
-        }
-      ],
       "groupName": "111",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
           "score": null
         },
         "100": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "111": {
           "effective": true,
           "mark": null,
           "score": null
@@ -800,11 +729,6 @@
           "score": null
         },
         "3": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "346": {
           "effective": true,
           "mark": null,
           "score": null
@@ -874,9 +798,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -884,42 +806,14 @@
         "d": null
       },
       "groupMaster": "罗琪",
-      "groupMember": [
-        {
-          "id": "1357113",
-          "name": "罗琪"
-        },
-        {
-          "id": "1357114",
-          "name": "李清妍"
-        },
-        {
-          "id": "1357116",
-          "name": "徐沁"
-        }
-      ],
       "groupName": "346",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -955,12 +849,12 @@
           "mark": null,
           "score": null
         },
-        "66": {
+        "346": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "999": {
+        "66": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1020,9 +914,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1030,38 +922,14 @@
         "d": null
       },
       "groupMaster": "黄思宇",
-      "groupMember": [
-        {
-          "id": "1357124",
-          "name": "黄思宇"
-        },
-        {
-          "id": "1357125",
-          "name": "吴青峰"
-        }
-      ],
       "groupName": "999",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1073,11 +941,6 @@
           "score": null
         },
         "111": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "1234": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1103,6 +966,11 @@
           "score": null
         },
         "66": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "999": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1162,9 +1030,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1172,46 +1038,14 @@
         "d": null
       },
       "groupMaster": "李瑞珅",
-      "groupMember": [
-        {
-          "id": "1357233",
-          "name": "李瑞珅"
-        },
-        {
-          "id": "1357235",
-          "name": "陈优天子"
-        },
-        {
-          "id": "1357241",
-          "name": "曾锦烽"
-        },
-        {
-          "id": "1357244",
-          "name": "龚言"
-        }
-      ],
       "groupName": "1234",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1227,12 +1061,12 @@
           "mark": null,
           "score": null
         },
-        "2": {
+        "1234": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "21215": {
+        "2": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1312,9 +1146,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1322,42 +1154,14 @@
         "d": null
       },
       "groupMaster": "谈加颖",
-      "groupMember": [
-        {
-          "id": "1357112",
-          "name": "谈加颖"
-        },
-        {
-          "id": "1357115",
-          "name": "俞月"
-        },
-        {
-          "id": "1357202",
-          "name": "居阳"
-        }
-      ],
       "groupName": "21215",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1379,6 +1183,11 @@
           "score": null
         },
         "2": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
+        "21215": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1452,15 +1261,8 @@
           "effective": true,
           "mark": null,
           "score": null
-        },
-        "随便": {
-          "effective": true,
-          "mark": null,
-          "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1468,46 +1270,14 @@
         "d": null
       },
       "groupMaster": "杨雯娜",
-      "groupMember": [
-        {
-          "id": "1357105",
-          "name": "杨雯娜"
-        },
-        {
-          "id": "1357106",
-          "name": "孙亚珍"
-        },
-        {
-          "id": "1357107",
-          "name": "张丽丽"
-        },
-        {
-          "id": "1357108",
-          "name": "张琦"
-        }
-      ],
       "groupName": "随便",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1598,19 +1368,17 @@
           "mark": null,
           "score": null
         },
-        "沙雕": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
         "猪空": {
           "effective": true,
           "mark": null,
           "score": null
+        },
+        "随便": {
+          "effective": true,
+          "mark": null,
+          "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1618,38 +1386,14 @@
         "d": null
       },
       "groupMaster": "谢佳豪",
-      "groupMember": [
-        {
-          "id": "1357121",
-          "name": "谢佳豪"
-        },
-        {
-          "id": "1357133",
-          "name": "邓帆"
-        }
-      ],
       "groupName": "沙雕",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1720,11 +1464,6 @@
           "mark": null,
           "score": null
         },
-        "ZKL": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
         "全场最佳": {
           "effective": true,
           "mark": null,
@@ -1740,6 +1479,11 @@
           "mark": null,
           "score": null
         },
+        "沙雕": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
         "猪空": {
           "effective": true,
           "mark": null,
@@ -1750,9 +1494,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1760,34 +1502,14 @@
         "d": null
       },
       "groupMaster": "张凯龙",
-      "groupMember": [
-        {
-          "id": "1357122",
-          "name": "张凯龙"
-        }
-      ],
       "groupName": "ZKL",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1848,12 +1570,12 @@
           "mark": null,
           "score": null
         },
-        "PYY": {
+        "X-man": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "X-man": {
+        "ZKL": {
           "effective": true,
           "mark": null,
           "score": null
@@ -1888,9 +1610,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -1898,38 +1618,14 @@
         "d": null
       },
       "groupMaster": "王佳萌",
-      "groupMember": [
-        {
-          "id": "1357123",
-          "name": "王佳萌"
-        },
-        {
-          "id": "1357134",
-          "name": "金冬雨"
-        }
-      ],
       "groupName": "PYY",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -1980,12 +1676,12 @@
           "mark": null,
           "score": null
         },
-        "HX": {
+        "OMS": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "OMS": {
+        "PYY": {
           "effective": true,
           "mark": null,
           "score": null
@@ -2030,9 +1726,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2040,34 +1734,14 @@
         "d": null
       },
       "groupMaster": "惠鑫",
-      "groupMember": [
-        {
-          "id": "1357130",
-          "name": "惠鑫"
-        }
-      ],
       "groupName": "HX",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -2118,6 +1792,11 @@
           "mark": null,
           "score": null
         },
+        "HX": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
         "OMS": {
           "effective": true,
           "mark": null,
@@ -2134,11 +1813,6 @@
           "score": null
         },
         "ZKL": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "全场最佳": {
           "effective": true,
           "mark": null,
           "score": null
@@ -2168,9 +1842,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2178,50 +1850,14 @@
         "d": null
       },
       "groupMaster": "冯梓原",
-      "groupMember": [
-        {
-          "id": "1357132",
-          "name": "冯梓原"
-        },
-        {
-          "id": "1357143",
-          "name": "项宇峰"
-        },
-        {
-          "id": "1357232",
-          "name": "戚小强"
-        },
-        {
-          "id": "1357234",
-          "name": "陈斯琦"
-        },
-        {
-          "id": "1357239",
-          "name": "沈航"
-        }
-      ],
       "groupName": "全场最佳",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -2287,12 +1923,12 @@
           "mark": null,
           "score": null
         },
-        "X-man": {
+        "ZKL": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "ZKL": {
+        "全场最佳": {
           "effective": true,
           "mark": null,
           "score": null
@@ -2322,9 +1958,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2332,38 +1966,14 @@
         "d": null
       },
       "groupMaster": "许家豪",
-      "groupMember": [
-        {
-          "id": "1357140",
-          "name": "许家豪"
-        },
-        {
-          "id": "1357141",
-          "name": "陆永祺"
-        }
-      ],
       "groupName": "X-man",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -2419,12 +2029,12 @@
           "mark": null,
           "score": null
         },
-        "OMS": {
+        "PYY": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "PYY": {
+        "X-man": {
           "effective": true,
           "mark": null,
           "score": null
@@ -2464,9 +2074,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2474,46 +2082,14 @@
         "d": null
       },
       "groupMaster": "顾诗洁",
-      "groupMember": [
-        {
-          "id": "1357209",
-          "name": "顾诗洁"
-        },
-        {
-          "id": "1357211",
-          "name": "蒋灵如"
-        },
-        {
-          "id": "1357212",
-          "name": "倪姣婕"
-        },
-        {
-          "id": "1357214",
-          "name": "蔡曦莹"
-        }
-      ],
       "groupName": "OMS",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -2569,6 +2145,11 @@
           "mark": null,
           "score": null
         },
+        "OMS": {
+          "effective": true,
+          "mark": null,
+          "score": null
+        },
         "PYY": {
           "effective": true,
           "mark": null,
@@ -2594,11 +2175,6 @@
           "mark": null,
           "score": null
         },
-        "巴啦啦小魔仙": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
         "沙雕": {
           "effective": true,
           "mark": null,
@@ -2614,9 +2190,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2624,50 +2198,14 @@
         "d": null
       },
       "groupMaster": "李骁",
-      "groupMember": [
-        {
-          "id": "1357210",
-          "name": "刘见微"
-        },
-        {
-          "id": "1357213",
-          "name": "肖陈夏怡"
-        },
-        {
-          "id": "1357215",
-          "name": "刘帆"
-        },
-        {
-          "id": "1357225",
-          "name": "李骁"
-        },
-        {
-          "id": "1357226",
-          "name": "姚逸杰"
-        }
-      ],
       "groupName": "巴啦啦小魔仙",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+        "exit": false,
+        "name": null
+      }
+    },
+    {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -2753,12 +2291,12 @@
           "mark": null,
           "score": null
         },
-        "沙雕": {
+        "巴啦啦小魔仙": {
           "effective": true,
           "mark": null,
           "score": null
         },
-        "猪空": {
+        "沙雕": {
           "effective": true,
           "mark": null,
           "score": null
@@ -2768,9 +2306,7 @@
           "mark": null,
           "score": null
         }
-      }
-    },
-    {
+      },
       "getScore": {
         "a": null,
         "b": null,
@@ -2778,172 +2314,14 @@
         "d": null
       },
       "groupMaster": "徐瑞昊",
-      "groupMember": [
-        {
-          "id": "1357236",
-          "name": "徐瑞昊"
-        }
-      ],
       "groupName": "猪空",
       "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
-        "1": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "100": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "111": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "1234": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "2": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "21215": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "3": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "346": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "66": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "999": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "HX": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "OMS": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "PYY": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "X-man": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "ZKL": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "全场最佳": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "咸美丽": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "巴啦啦小魔仙": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "沙雕": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        },
-        "随便": {
-          "effective": true,
-          "mark": null,
-          "score": null
-        }
+        "exit": false,
+        "name": null
       }
     },
     {
-      "getScore": {
-        "a": null,
-        "b": null,
-        "c": null,
-        "d": null
-      },
-      "groupMaster": "沈翔东",
-      "groupMember": [
-        {
-          "id": "1357222",
-          "name": "沈翔东"
-        }
-      ],
-      "groupName": "咸美丽",
-      "homework": {
-        "doc": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "pdf": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        },
-        "xls": {
-          "exit": null,
-          "name": null,
-          "publisher": null,
-          "time": null
-        }
-      },
-      "score": {
+      "forOthers": {
         "1": {
           "effective": true,
           "mark": null,
@@ -3044,6 +2422,18 @@
           "mark": null,
           "score": null
         }
+      },
+      "getScore": {
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null
+      },
+      "groupMaster": "沈翔东",
+      "groupName": "咸美丽",
+      "homework": {
+        "exit": false,
+        "name": null
       }
     }
   ]
