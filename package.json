@@ -21,6 +21,7 @@
     "express": "^4.14.0",
     "express-session": "^1.13.0",
     "formidable": "^1.0.17",
-    "mongodb": "^2.1.18"
+    "mongodb": "^2.1.18",
+    "compression":"*"
   }
 }
