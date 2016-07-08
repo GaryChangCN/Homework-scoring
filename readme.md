@@ -8,7 +8,7 @@ node app.js
 mongod --dbpath xxx
 ```
 #### 简介
-##### 本项目采用 *javascript* + *node.js* + *mongodb* 开发完成。学生端采用了谷歌chrome应用商店配色以及我自己封装的 [_Ajax库](https://github.com/GaryChangCN/_Ajax) 。教师端使用了Jquery库和 **Flex** 布局。后端使用了node.js采用mongodb作为数据库。
+##### 本项目采用 *javascript* + *node.js* + *mongodb* 开发完成。学生端采用了谷歌chrome应用商店配色以及我自己封装的 [_Ajax库](https://github.com/GaryChangCN/_Ajax) 。教师端使用了Jquery库和 **Flex** 布局,以及采用了百度*Echart*。后端使用了node.js采用mongodb作为数据库。
 #### 界面预览
 
 ---
