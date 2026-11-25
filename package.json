@@ -4,7 +4,7 @@
   "description": "wait",
   "main": "app.js",
   "scripts": {
-    "test": "nonono"
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -16,12 +16,14 @@
   "author": "tinytin",
   "license": "ISC",
   "dependencies": {
-    "compression": "^1.6.2",
+    "compression": "^1.8.2",
     "cookie-parser": "^1.4.3",
-    "express": "^4.14.0",
+    "express": "^4.22.0",
     "express-session": "^1.13.0",
     "formidable": "^1.0.17",
-    "mongodb": "^2.1.18",
-    "compression":"*"
+    "mongodb": "^6.21.0"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

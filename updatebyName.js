@@ -1,8 +1,7 @@
-var mongo = require("mongodb");
+var { createDatabase } = require("./lib/database");
 var fs = require("fs");
 //h:\mongodb\bin\mongod.exe -dbpath h:\score\db
-var server = new mongo.Server('127.0.0.1', '27017');
-var db = new mongo.Db('score', server, { safe: true });
+var db = createDatabase();
 db.open(function(err, db) {
     if (err) throw err;
     else {
