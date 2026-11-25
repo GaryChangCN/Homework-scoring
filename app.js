@@ -4,11 +4,11 @@ var express = require("express");
 var app = express();
 var formidable = require("formidable");
 var fs = require("fs");
-var loginVerify = require("loginVerify");
+var loginVerify = require("./lib/loginVerify");
 var cookieParser = require("cookie-parser");
 var session = require("express-session");
-var uploadFile = require("uploadFile");
-var teacherControl = require("teacherControl");
+var uploadFile = require("./lib/uploadFile");
+var teacherControl = require("./lib/teacherControl");
 app.on('error', function(err) {
     console.log(err);
 })
@@ -151,5 +151,9 @@ app.post("/Tpost", function(req, res) {
 app.use(function(req, res) {
     res.redirect(301, "404.html");
 });
-console.log("listen on 80");
-app.listen(80);
+if (require.main === module) {
+    var port = Number(process.env.PORT || 80);
+    app.listen(port, function () { console.log("listen on " + port); });
+}
+
+module.exports = app;
